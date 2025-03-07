@@ -17,8 +17,8 @@ jobs:
 
       - name: Set Git Config
         run: |
-          git config --global user.name "your-github-username"
-          git config --global user.email "your-email@example.com"
+          git config --global user.name "arjunchadda1"
+          git config --global user.email "arjunchadda93545@gmail.com"
 
       - name: Make Dummy Commits
         run: |
